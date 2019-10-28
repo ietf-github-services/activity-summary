@@ -17,15 +17,13 @@ def createMls(repo_data, override=None):
             for recipient in repo.get("report_to", []):
                 if override:
                     recipient = override
-                elif "@" not in recipient:
-                    new_recipient = repo_data[group].get(recipient, None)
-                    if new_recipient is None:
+                elif recipient == "group_email":
+                    recipient = repo_data[group].get("email", None)
+                    if recipient is None:
                         sys.stderr.write(
                             f"WARNING: unknown recipient {recipient}; skipping.\n"
                         )
                         continue
-                    else:
-                        recipient = new_recipient
                 if recipient not in out:
                     out[recipient] = {
                         "digest:sunday": {
