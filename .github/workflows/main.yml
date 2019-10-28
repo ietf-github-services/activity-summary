@@ -1,0 +1,36 @@
+name: Activity Summary
+
+on:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+      with:
+        ref: master
+    - name: Set up Python
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r github-notify-ml/requirements.txt
+    - name: Fetch repo_data.json
+      run: |
+        curl https://raw.githubusercontent.com/ietf-github-services/repo-data/master/repo_data.json > repo_data.json
+    - name: create instance
+      run: |
+        mkdir github-notify-ml/instance
+        cp config.json github-notify-ml/instance/
+    - name: create mls.json
+      run: |
+        python activity_summary.py repo_data.json > github-notify-ml/instance/mls.json
+    - name: run github-notify-ml
+      run: |
+        cd github-notify-ml
+        python index.py Sunday
+      
