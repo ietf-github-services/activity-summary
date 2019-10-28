@@ -31,6 +31,12 @@ jobs:
       run: |
         python activity_summary.py --override=mnot@mnot.net repo_data.json > github-notify-ml/instance/mls.json
     - name: run github-notify-ml
+      env:
+        GH_OAUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        SMTP_HOST: smtp.fastmail.com
+        SMTP_USERNAME: mnot@mnot.net
+        SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+        SMTP_SSL: TRUE
       run: |
         cd github-notify-ml
         python index.py Sunday
