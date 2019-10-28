@@ -14,7 +14,7 @@ def createMls(repo_data, override=None):
     for group in repo_data:
         for repo_name in repo_data[group].get("repos", {}):
             repo = repo_data[group]["repos"][repo_name]
-            for recipient in repo.get("report_to", []):
+            for recipient in repo.get("activity_summary_to", []):
                 if override:
                     recipient = override
                 elif recipient == "group_email":
