@@ -1,6 +1,6 @@
 name: Activity Summary
 
-on:
+on: [push]
 
 jobs:
   build:
