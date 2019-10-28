@@ -28,7 +28,7 @@ jobs:
         cp config.json github-notify-ml/instance/
     - name: create mls.json
       run: |
-        python activity_summary.py repo_data.json > github-notify-ml/instance/mls.json
+        python activity_summary.py --override=mnot@mnot.net repo_data.json > github-notify-ml/instance/mls.json
     - name: run github-notify-ml
       run: |
         cd github-notify-ml
