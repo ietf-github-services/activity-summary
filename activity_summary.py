@@ -9,13 +9,15 @@ This is really just glue between it and repo_data.json.
 import json
 
 
-def createMls(repo_data):
+def createMls(repo_data, override=None):
     out = {}
     for group in repo_data:
         for repo_name in repo_data[group].get("repos", {}):
             repo = repo_data[group]["repos"][repo_name]
             for recipient in repo.get("report_to", []):
-                if "@" not in recipient:
+                if override:
+                    recipient = override
+                elif "@" not in recipient:
                     new_recipient = repo_data[group].get(recipient, None)
                     if new_recipient is None:
                         sys.stderr.write(
@@ -45,9 +47,10 @@ if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description="List activity.")
     parser.add_argument("repo_data_file", help="The repo_data.json file location")
+    parser.add_argument("--override", action="store", help="Override e-mail for testing")
     args = parser.parse_args()
 
     with open(args.repo_data_file) as repo_data_fh:
         repo_data = json.load(repo_data_fh)
-    mls = createMls(repo_data)
+    mls = createMls(repo_data, args.override)
     print(json.dumps(mls, indent=4, sort_keys=True))
