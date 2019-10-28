@@ -1,5 +1,6 @@
 {
 "EMAIL_FROM": "do_not_reply@mnot.net",
 "TEMPLATES_DIR": "templates",
+"DIGEST_SUBJECT":"Repository Activity Summary",
 "mls": "instance/mls.json",
 }
