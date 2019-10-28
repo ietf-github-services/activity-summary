@@ -1,5 +1,7 @@
 # Github Activity Summaries
 
+[![Actions Status](https://github.com/ietf-github-services/activity-summary/workflows/Activity%20Summary/badge.svg)](https://github.com/ietf-github-services/activity-summary/actions)
+
 You can get a summary of repository activity e-mailed by adding the `activity_summary_to` field to your repository's `ietf.json` file.
 
 See [this example](https://www.w3.org/mid/20191006004517.42CACC2B6B@cloud.mnot.net) and the [IETF Repository Data Service](https://github.com/ietf-github-services/repo-data#ietf-repository-data-service) for more information.
