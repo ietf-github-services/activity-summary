@@ -11,6 +11,7 @@ jobs:
     - uses: actions/checkout@v1
       with:
         ref: master
+        submodules: recursive
     - name: Set up Python
       uses: actions/setup-python@v1
       with:
