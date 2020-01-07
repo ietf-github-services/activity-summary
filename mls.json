@@ -1,0 +1,29 @@
+{
+    "ietf-http-wg@w3.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "httpwg/http-core",
+                "httpwg/http-extensions"
+            ],
+            "topic": " Activity Summary"
+        }
+    },
+    "quic@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "quicwg/base-drafts"
+            ],
+            "topic": " Activity Summary"
+        }
+    }
+}

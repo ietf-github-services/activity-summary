@@ -1,0 +1,53 @@
+{
+    "$schema": "http://json-schema.org/schema#",
+    "type": "object",
+    "additionalProperties": {
+        "type": "object",
+        "required": ["digest:sunday"],
+        "properties": {
+            "digest:sunday": {
+                "type": "object",
+                "required": ["topic", "repos"],
+                "properties": {
+                    "topic": {
+                        "type": "string",
+                        "minLength": 4
+                    },
+                    "repos": {
+                        "type": "array",
+                        "items": {
+                            "type": "string",
+                            "pattern": "^[0-9a-zA-z.\\-_]+/[0-9a-zA-z.\\-_]+$",
+                            "minItems": 1,
+                            "uniqueItems": true
+                          }
+                    },
+                    "eventFilter": {
+                        "type": "object",
+                        "properties": {
+                            "label": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string",
+                                    "minItems": 1,
+                                    "uniqueItems": true
+                                }
+                            },
+                            "notlabel": {
+                                "type": "array",
+                                "items": {
+                                    "type": "string",
+                                    "minItems": 1,
+                                    "uniqueItems": true
+                                }
+                            }
+                        },
+                        "additionalProperties": false                        
+                    }
+                },
+                "additionalProperties": false
+            }
+        },
+        "additionalProperties": false
+    }
+}
