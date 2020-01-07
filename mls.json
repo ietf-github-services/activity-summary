@@ -25,5 +25,24 @@
             ],
             "topic": "QUIC Activity Summary"
         }
+    },
+    "tls@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "tlswg/draft-ietf-tls-esni",
+                "tlswg/certificate-compression",
+                "tlswg/draft-ietf-tls-external-psk-importer",
+                "tlswg/draft-ietf-tls-ticketrequest",
+                "tlswg/tls-flags",
+                "tlswg/dtls13-spec",
+                "tlswg/dtls-conn-id",
+                "tlswg/tls-subcerts",
+                "tlswg/oldversions-deprecate",
+                "tlswg/sniencryption",
+                "tlswg/tls-exported-authenticator",
+                "tlswg/draft-ietf-tls-grease"
+            ],
+            "topic": "TLS Working Group Drafts"
+        }
     }
 }
