@@ -2,8 +2,26 @@
 
 [![Actions Status](https://github.com/ietf-github-services/activity-summary/workflows/Activity%20Summary/badge.svg)](https://github.com/ietf-github-services/activity-summary/actions)
 
-You can get a summary of repository activity e-mailed by adding the `activity_summary_to` field to your repository's `ietf.json` file.
+Emailing weekly summaries of GitHub repository activity to IETF mailing lists.
 
-See [this example](https://www.w3.org/mid/20191006004517.42CACC2B6B@cloud.mnot.net) and the [IETF Repository Data Service](https://github.com/ietf-github-services/repo-data#ietf-repository-data-service) for more information.
+You can get a summary of repository activity e-mailed by creating a pull request that updates `mls.json` in this repository, with a new member of the top-level object representing the mailing list you'd like to send the summary to. 
 
-Activity summaries will be e-mailed weekly, and only one e-mail will be sent to each recipient, summarising all of the repositories they are watching.
+For example:
+
+~~~
+"quic@ietf.org": {                         <-- your group's e-mail address
+    "digest:sunday": {                     <-- must be "digest:sunday"
+        "eventFilter": {                   <-- optional section to filter the issue labels
+            "notlabel": [
+                "editorial"
+            ]
+        },
+        "repos": [                         <-- list of repos to watch
+            "quicwg/base-drafts"
+        ],
+        "topic": "QUIC Activity Summary"   <-- subject for the summary
+    }
+}
+~~~
+
+Activity summaries will be e-mailed weekly.
