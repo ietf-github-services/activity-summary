@@ -10,7 +10,7 @@
                 "httpwg/http-core",
                 "httpwg/http-extensions"
             ],
-            "topic": " Activity Summary"
+            "topic": "HTTP Activity Summary"
         }
     },
     "quic@ietf.org": {
@@ -23,7 +23,7 @@
             "repos": [
                 "quicwg/base-drafts"
             ],
-            "topic": " Activity Summary"
+            "topic": "QUIC Activity Summary"
         }
     }
 }
