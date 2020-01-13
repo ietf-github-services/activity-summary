@@ -44,5 +44,19 @@
             ],
             "topic": "TLS Working Group Drafts"
         }
+    },
+    "cellar@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "cellar-wg/matroska-specification",
+                "cellar-wg/ebml-specification"
+            ],
+            "topic": "CELLAR Activity Summary"
+        }
     }
 }
