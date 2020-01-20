@@ -29,6 +29,8 @@
     "tls@ietf.org": {
         "digest:sunday": {
             "repos": [
+                "tlswg/draft-ietf-tls-semistatic-dh",
+                "tlswg/draft-ietf-tls-md5-sha1-deprecate",
                 "tlswg/draft-ietf-tls-esni",
                 "tlswg/certificate-compression",
                 "tlswg/draft-ietf-tls-external-psk-importer",
