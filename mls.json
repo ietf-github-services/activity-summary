@@ -58,5 +58,15 @@
             ],
             "topic": "CELLAR Activity Summary"
         }
-    }
+    },
+    "mls@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "mlswg/mls-architecture",
+                "mlswg/mls-protocol",
+                "mlswg/mls-federation",
+            ],
+            "topic": "MLS Working Group summary"
+        }
+    },
 }
