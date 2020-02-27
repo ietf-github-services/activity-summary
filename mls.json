@@ -22,6 +22,7 @@
             },
             "repos": [
                 "quicwg/base-drafts",
+                "quicwg/ops-drafts",
                 "quicwg/datagram",
                 "quicwg/load-balancers",
                 "quicwg/version-negotiation"
