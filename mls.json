@@ -21,7 +21,10 @@
                 ]
             },
             "repos": [
-                "quicwg/base-drafts"
+                "quicwg/base-drafts",
+                "quicwg/datagram",
+                "quicwg/load-balancers",
+                "quicwg/version-negotiation"
             ],
             "topic": "QUIC Activity Summary"
         }
