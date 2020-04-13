@@ -74,5 +74,18 @@
             ],
             "topic": "MLS Working Group summary"
         }
+    },
+    "mops@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "ietf-wg-mops/draft-ietf-mops-streaming-opcons"
+            ],
+            "topic": "MOPS Activity Summary"
+        }
     }
 }
