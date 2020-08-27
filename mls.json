@@ -87,5 +87,13 @@
             ],
             "topic": "MOPS Activity Summary"
         }
-    }
+    },
+	"edm@iab.org": {
+		"digest:sunday": {
+			"repos": [
+				"intarchboard/edm"
+			],
+			"topic": "EDM Activity Summary"
+		}
+	}
 }
