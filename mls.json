@@ -96,7 +96,7 @@
                 ]
             },
             "repos": [
-                "ietf-wg-add/draft-add-requirements"
+                "ietf-wg-add/draft-add-requirements",
                 "ietf-wg-add/wg-materials"
 	    ],
             "topic": "ADD Activity Summary"
