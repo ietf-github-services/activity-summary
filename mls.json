@@ -88,6 +88,20 @@
             "topic": "MOPS Activity Summary"
         }
     },
+    "add@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "ietf-wg-add/draft-add-requirements",
+                "ietf-wg-add/wg-materials"
+	    ],
+            "topic": "ADD Activity Summary"
+        }
+    },
     "edm@iab.org": {
         "digest:sunday": {
             "repos": [
