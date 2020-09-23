@@ -59,8 +59,11 @@
                 ]
             },
             "repos": [
-                "cellar-wg/matroska-specification",
                 "cellar-wg/ebml-specification"
+                "cellar-wg/matroska-specification",
+				"FFmpeg/FFV1"
+				"cellar-wg/Cellar-FLAC"
+				"cellar-wg/chair-notes"
             ],
             "topic": "CELLAR Activity Summary"
         }
