@@ -8,7 +8,8 @@
             },
             "repos": [
                 "httpwg/http-core",
-                "httpwg/http-extensions"
+                "httpwg/http-extensions",
+		"httpwg/http2-spec"
             ],
             "topic": "HTTP Activity Summary"
         }
