@@ -113,5 +113,18 @@
             ],
             "topic": "EDM Activity Summary"
         }
+    },
+    "txauth@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "ietf-wg-gnap/core-protocol"
+            ],
+            "topic": "GNAP Weekly GitHub Activity Summary"
+        }
     }
 }
