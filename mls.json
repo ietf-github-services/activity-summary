@@ -40,6 +40,7 @@
                 "tlswg/certificate-compression",
                 "tlswg/draft-ietf-tls-external-psk-importer",
                 "tlswg/draft-ietf-tls-ticketrequest",
+                "tlswg/tls13-spec",
                 "tlswg/tls-flags",
                 "tlswg/dtls13-spec",
                 "tlswg/dtls-conn-id",
@@ -47,7 +48,8 @@
                 "tlswg/oldversions-deprecate",
                 "tlswg/sniencryption",
                 "tlswg/tls-exported-authenticator",
-                "tlswg/draft-ietf-tls-grease"
+                "tlswg/draft-ietf-tls-ctls",
+                "tlswg/external-psk-design-team"
             ],
             "topic": "TLS Working Group Drafts"
         }
@@ -77,6 +79,15 @@
                 "mlswg/mls-federation"
             ],
             "topic": "MLS Working Group summary"
+        }
+    },
+    "masque@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "ietf-wg-masque/draft-ietf-masque-connect-udp",
+                "ietf-wg-masque/draft-ietf-masque-ip-proxy-reqs"
+            ],
+            "topic": "MASQUE Working Group summary"
         }
     },
     "mops@ietf.org": {
