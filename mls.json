@@ -125,6 +125,19 @@
             "topic": "EDM Activity Summary"
         }
     },
+    "asdf@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "ietf-wg-asdf/SDF"
+            ],
+            "topic": "ASDF Activity Summary"
+        }
+    },
     "txauth@ietf.org": {
         "digest:sunday": {
             "eventFilter": {
