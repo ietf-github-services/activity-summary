@@ -125,6 +125,21 @@
             "topic": "EDM Activity Summary"
         }
     },
+    "rats@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+	    "repos": [
+                "ietf-rats-wg/architecture",
+		"ietf-rats-wg/eat",
+		"ietf-rats-wg/ietf-rats-usecases",
+            ],
+            "topic": "RATS Activity Summary"
+        }
+    },
     "txauth@ietf.org": {
         "digest:sunday": {
             "eventFilter": {
