@@ -90,6 +90,14 @@
             "topic": "MASQUE Working Group summary"
         }
     },
+    "privacy-pass@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "ietf-wg-privacypass/base-drafts"
+            ],
+            "topic": "Privacy Pass Working Group summary"
+        }
+    },
     "mops@ietf.org": {
         "digest:sunday": {
             "eventFilter": {
