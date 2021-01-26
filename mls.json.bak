@@ -65,7 +65,7 @@
                 "ietf-cellar-wg/ebml-specification",
                 "ietf-cellar-wg/matroska-specification",
 				"FFmpeg/FFV1",
-				"ietf-wg-cellar/Cellar-FLAC",
+				"ietf-cellar-wg/Cellar-FLAC",
 				"ietf-cellar-wg/chair-notes"
             ],
             "topic": "CELLAR Activity Summary"
