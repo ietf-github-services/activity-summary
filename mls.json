@@ -133,6 +133,22 @@
             "topic": "EDM Activity Summary"
         }
     },
+    "httpapi@ietf.org": {
+	"digest:sunday": {
+	    "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+        },
+	"repos": [
+		"ietf-wg-httpapi/deprecation-header",
+		"ietf-wg-httpapi/ratelimit-headers",
+		"ietf-wg-httpapi/linkset",
+		"ietf-wg-httpapi/wg-materials",
+		"ietf-wg-httpapi/rfc7807bis"
+	],
+	"topic": "HTTPAPI WG Activity Summary"
+    },
     "asdf@ietf.org": {
         "digest:sunday": {
             "eventFilter": {
