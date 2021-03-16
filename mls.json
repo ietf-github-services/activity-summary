@@ -120,12 +120,11 @@
             },
             "repos": [
 		"ietf-wg-add/wg-materials",
-                "ietf-wg-add/draft-ietf-add-requirements",
+		"ietf-wg-add/draft-ietf-add-requirements",
 		"ietf-wg-add/draft-ietf-add-ddr",
 		"ietf-wg-add/draft-ietf-add-dnr"
-                
 	    ],
-            "topic": "ADD GitHub Activity Summary"
+            "topic": "ADD Activity Summary"
         }
     },
     "edm@iab.org": {
