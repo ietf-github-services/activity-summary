@@ -85,6 +85,7 @@
         "digest:sunday": {
             "repos": [
                 "ietf-wg-masque/draft-ietf-masque-connect-udp",
+                "ietf-wg-masque/draft-ietf-masque-h3-datagram",
                 "ietf-wg-masque/draft-ietf-masque-ip-proxy-reqs"
             ],
             "topic": "MASQUE Working Group summary"
