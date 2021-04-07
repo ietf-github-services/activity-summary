@@ -148,7 +148,8 @@
 		"ietf-wg-httpapi/ratelimit-headers",
 		"ietf-wg-httpapi/linkset",
 		"ietf-wg-httpapi/wg-materials",
-		"ietf-wg-httpapi/rfc7807bis"
+		"ietf-wg-httpapi/rfc7807bis",
+		"ietf-wg-httpapi/discussion"
 	    ],
 	    "topic": "HTTPAPI WG Activity Summary"
 	}
