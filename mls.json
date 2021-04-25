@@ -174,7 +174,8 @@
                 ]
             },
             "repos": [
-                "ietf-wg-gnap/core-protocol"
+                "ietf-wg-gnap/core-protocol",
+		"ietf-wg-gnap/gnap-resource-servers"
             ],
             "topic": "GNAP Weekly GitHub Activity Summary"
         }
