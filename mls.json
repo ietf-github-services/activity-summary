@@ -180,5 +180,22 @@
             ],
             "topic": "GNAP Weekly GitHub Activity Summary"
         }
+    },
+    "cose@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "cose-wg/CBOR-certificates",
+                "cose-wg/Charter",
+                "cose-wg/cose-rfc8152bis",
+                "cose-wg/countersign",
+                "cose-wg/X509"
+            ],
+            "topic": "COSE Activity Summary"
+        }
     }
 }
