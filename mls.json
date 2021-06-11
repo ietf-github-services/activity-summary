@@ -27,7 +27,8 @@
                 "quicwg/datagram",
                 "quicwg/load-balancers",
                 "quicwg/version-negotiation",
-                "quicwg/quic-bit-grease"
+                "quicwg/quic-bit-grease",
+		"quicwg/qlog"
             ],
             "topic": "QUIC Activity Summary"
         }
