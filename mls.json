@@ -198,5 +198,27 @@
             ],
             "topic": "COSE Activity Summary"
         }
+    },
+    "tao-discuss@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "ietf/tao"
+            ],
+            "topic": "IETF Tao Activity Summary"
+        }
+    },
+    "iesg@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "ietf/id-guidelines"
+            ],
+            "topic": "I-D Guidelines Activity Summary"
+        }
     }
 }
