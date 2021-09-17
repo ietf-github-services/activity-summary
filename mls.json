@@ -198,5 +198,16 @@
             ],
             "topic": "COSE Activity Summary"
         }
+    },
+    "tcpm@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "NTAP/rfc8312bis"
+            ],
+            "topic": "RFC8312bis Activity Summary"
+        }
     }
 }
