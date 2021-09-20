@@ -26,7 +26,9 @@
                 "quicwg/ops-drafts",
                 "quicwg/datagram",
                 "quicwg/load-balancers",
-                "quicwg/version-negotiation"
+                "quicwg/version-negotiation",
+                "quicwg/quic-bit-grease",
+		"quicwg/qlog"
             ],
             "topic": "QUIC Activity Summary"
         }
@@ -85,6 +87,7 @@
         "digest:sunday": {
             "repos": [
                 "ietf-wg-masque/draft-ietf-masque-connect-udp",
+                "ietf-wg-masque/draft-ietf-masque-h3-datagram",
                 "ietf-wg-masque/draft-ietf-masque-ip-proxy-reqs"
             ],
             "topic": "MASQUE Working Group summary"
@@ -173,9 +176,38 @@
                 ]
             },
             "repos": [
-                "ietf-wg-gnap/core-protocol"
+                "ietf-wg-gnap/core-protocol",
+		"ietf-wg-gnap/gnap-resource-servers"
             ],
             "topic": "GNAP Weekly GitHub Activity Summary"
+        }
+    },
+    "cose@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "cose-wg/CBOR-certificates",
+                "cose-wg/Charter",
+                "cose-wg/cose-rfc8152bis",
+                "cose-wg/countersign",
+                "cose-wg/X509"
+            ],
+            "topic": "COSE Activity Summary"
+        }
+    },
+    "tcpm@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "NTAP/rfc8312bis"
+            ],
+            "topic": "RFC8312bis Activity Summary"
         }
     }
 }
