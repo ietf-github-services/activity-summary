@@ -210,6 +210,14 @@
             "topic": "RFC8312bis Activity Summary"
         }
     },
+    "taps@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "ietf-tapswg/api-drafts"
+            ],
+            "topic": "TAPS Activity Summary"
+        }
+    },
     "tao-discuss@ietf.org": {
         "digest:sunday": {
             "eventFilter": {
