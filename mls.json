@@ -8,7 +8,8 @@
             },
             "repos": [
                 "httpwg/http-core",
-                "httpwg/http-extensions"
+                "httpwg/http-extensions",
+		"httpwg/http2-spec"
             ],
             "topic": "HTTP Activity Summary"
         }
@@ -25,7 +26,9 @@
                 "quicwg/ops-drafts",
                 "quicwg/datagram",
                 "quicwg/load-balancers",
-                "quicwg/version-negotiation"
+                "quicwg/version-negotiation",
+                "quicwg/quic-bit-grease",
+		"quicwg/qlog"
             ],
             "topic": "QUIC Activity Summary"
         }
@@ -39,6 +42,7 @@
                 "tlswg/certificate-compression",
                 "tlswg/draft-ietf-tls-external-psk-importer",
                 "tlswg/draft-ietf-tls-ticketrequest",
+                "tlswg/tls13-spec",
                 "tlswg/tls-flags",
                 "tlswg/dtls13-spec",
                 "tlswg/dtls-conn-id",
@@ -46,7 +50,8 @@
                 "tlswg/oldversions-deprecate",
                 "tlswg/sniencryption",
                 "tlswg/tls-exported-authenticator",
-                "tlswg/draft-ietf-tls-grease"
+                "tlswg/draft-ietf-tls-ctls",
+                "tlswg/external-psk-design-team"
             ],
             "topic": "TLS Working Group Drafts"
         }
@@ -61,9 +66,9 @@
             "repos": [
                 "ietf-wg-cellar/ebml-specification",
                 "ietf-wg-cellar/matroska-specification",
-				"FFmpeg/FFV1",
-				"ietf-wg-cellar/flac-specification",
-				"ietf-wg-cellar/chair-notes"
+				        "FFmpeg/FFV1",
+				        "ietf-wg-cellar/flac-specification",
+				        "ietf-wg-cellar/chair-notes"
             ],
             "topic": "CELLAR Activity Summary"
         }
@@ -76,6 +81,24 @@
                 "mlswg/mls-federation"
             ],
             "topic": "MLS Working Group summary"
+        }
+    },
+    "masque@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "ietf-wg-masque/draft-ietf-masque-connect-udp",
+                "ietf-wg-masque/draft-ietf-masque-h3-datagram",
+                "ietf-wg-masque/draft-ietf-masque-ip-proxy-reqs"
+            ],
+            "topic": "MASQUE Working Group summary"
+        }
+    },
+    "privacy-pass@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "ietf-wg-privacypass/base-drafts"
+            ],
+            "topic": "Privacy Pass Working Group summary"
         }
     },
     "mops@ietf.org": {
@@ -99,8 +122,10 @@
                 ]
             },
             "repos": [
-                "ietf-wg-add/draft-add-requirements",
-                "ietf-wg-add/wg-materials"
+		"ietf-wg-add/wg-materials",
+		"ietf-wg-add/draft-ietf-add-requirements",
+		"ietf-wg-add/draft-ietf-add-ddr",
+		"ietf-wg-add/draft-ietf-add-dnr"
 	    ],
             "topic": "ADD Activity Summary"
         }
@@ -111,6 +136,108 @@
                 "intarchboard/edm"
             ],
             "topic": "EDM Activity Summary"
+        }
+    },
+    "httpapi@ietf.org": {
+	"digest:sunday": {
+	    "eventFilter": {
+                "notlabel": [
+                    "editorial"
+		]
+	    },
+	    "repos": [
+		"ietf-wg-httpapi/deprecation-header",
+		"ietf-wg-httpapi/ratelimit-headers",
+		"ietf-wg-httpapi/linkset",
+		"ietf-wg-httpapi/wg-materials",
+		"ietf-wg-httpapi/rfc7807bis"
+	    ],
+	    "topic": "HTTPAPI WG Activity Summary"
+	}
+    },
+    "asdf@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "ietf-wg-asdf/SDF"
+            ],
+            "topic": "ASDF Activity Summary"
+        }
+    },
+    "txauth@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "ietf-wg-gnap/core-protocol",
+		"ietf-wg-gnap/gnap-resource-servers"
+            ],
+            "topic": "GNAP Weekly GitHub Activity Summary"
+        }
+    },
+    "cose@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "cose-wg/CBOR-certificates",
+                "cose-wg/Charter",
+                "cose-wg/cose-rfc8152bis",
+                "cose-wg/countersign",
+                "cose-wg/X509"
+            ],
+            "topic": "COSE Activity Summary"
+        }
+    },
+    "tcpm@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "NTAP/rfc8312bis"
+            ],
+            "topic": "RFC8312bis Activity Summary"
+        }
+    },
+    "taps@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "ietf-tapswg/api-drafts"
+            ],
+            "topic": "TAPS Activity Summary"
+        }
+    },
+    "tao-discuss@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "ietf/tao"
+            ],
+            "topic": "IETF Tao Activity Summary"
+        }
+    },
+    "iesg@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "ietf/id-guidelines"
+            ],
+            "topic": "I-D Guidelines Activity Summary"
         }
     }
 }
