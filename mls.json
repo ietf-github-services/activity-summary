@@ -64,11 +64,13 @@
                 ]
             },
             "repos": [
-                "ietf-wg-cellar/ebml-specification",
-                "ietf-wg-cellar/matroska-specification",
-				        "FFmpeg/FFV1",
-				        "ietf-wg-cellar/flac-specification",
-				        "ietf-wg-cellar/chair-notes"
+				"FFmpeg/FFV1",
+				"ietf-wg-cellar/ebml-specification",
+				"ietf-wg-cellar/matroska-specification",
+				"ietf-wg-cellar/matroska-test-files",
+				"ietf-wg-cellar/flac-specification",
+				"ietf-wg-cellar/flac-test-files",
+				"ietf-wg-cellar/chair-notes"
             ],
             "topic": "CELLAR Activity Summary"
         }
