@@ -241,5 +241,16 @@
             ],
             "topic": "I-D Guidelines Activity Summary"
         }
+    },
+    "rfced-future@iab.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "intarchboard/program-rfced-future"
+            ],
+            "topic": "RFC Editor Future Development Program Activity Summary"
+        }
     }
 }
