@@ -95,6 +95,15 @@
             "topic": "MASQUE Working Group summary"
         }
     },
+    "panrg@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "panrg/questions",
+		"panrg/path-properties"
+            ],
+            "topic": "PANRG Activity Summary"
+        }
+    },
     "privacy-pass@ietf.org": {
         "digest:sunday": {
             "repos": [
