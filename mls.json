@@ -64,10 +64,12 @@
                 ]
             },
             "repos": [
-                "ietf-wg-cellar/ebml-specification",
-                "ietf-wg-cellar/matroska-specification",
 				"FFmpeg/FFV1",
-				"ietf-wg-cellar/Cellar-FLAC",
+				"ietf-wg-cellar/ebml-specification",
+				"ietf-wg-cellar/matroska-specification",
+				"ietf-wg-cellar/matroska-test-files",
+				"ietf-wg-cellar/flac-specification",
+				"ietf-wg-cellar/flac-test-files",
 				"ietf-wg-cellar/chair-notes"
             ],
             "topic": "CELLAR Activity Summary"
@@ -91,6 +93,15 @@
                 "ietf-wg-masque/draft-ietf-masque-ip-proxy-reqs"
             ],
             "topic": "MASQUE Working Group summary"
+        }
+    },
+    "panrg@irtf.org": {
+        "digest:sunday": {
+            "repos": [
+                "panrg/questions",
+		"panrg/path-properties"
+            ],
+            "topic": "PANRG Activity Summary"
         }
     },
     "privacy-pass@ietf.org": {
@@ -208,6 +219,47 @@
                 "NTAP/rfc8312bis"
             ],
             "topic": "RFC8312bis Activity Summary"
+        }
+    },
+    "taps@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "ietf-tapswg/api-drafts"
+            ],
+            "topic": "TAPS Activity Summary"
+        }
+    },
+    "tao-discuss@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "ietf/tao"
+            ],
+            "topic": "IETF Tao Activity Summary"
+        }
+    },
+    "iesg@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "ietf/id-guidelines"
+            ],
+            "topic": "I-D Guidelines Activity Summary"
+        }
+    },
+    "rfced-future@iab.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "intarchboard/program-rfced-future"
+            ],
+            "topic": "RFC Editor Future Development Program Activity Summary"
         }
     }
 }
