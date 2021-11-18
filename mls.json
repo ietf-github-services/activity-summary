@@ -261,5 +261,16 @@
             ],
             "topic": "RFC Editor Future Development Program Activity Summary"
         }
+    },
+    "ppm@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "abetterinternet/ppm-specification"
+            ],
+            "topic": "Privacy Preserving Measurement Activity Summary"
+        }
     }
 }
