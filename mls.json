@@ -273,5 +273,16 @@
             ],
             "topic": "Privacy Preserving Measurement Activity Summary"
         }
+    },
+    "ohai@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "ietf-wg-ohai/oblivious-http"
+            ],
+            "topic": "Oblivious HTTP Activity Summary"
+        }
     }
 }
