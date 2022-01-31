@@ -28,7 +28,9 @@
                 "quicwg/load-balancers",
                 "quicwg/version-negotiation",
                 "quicwg/quic-bit-grease",
-		"quicwg/qlog"
+		"quicwg/qlog",
+		"quicwg/quic-v2",
+		"quicwg/multipath"
             ],
             "topic": "QUIC Activity Summary"
         }
