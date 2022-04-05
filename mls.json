@@ -77,6 +77,23 @@
             "topic": "CELLAR Activity Summary"
         }
     },
+    "moq@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                 "afrind/moqbof",
+                 "moq-wg/moq-charter",
+                 "fiestajetsam/draft-gruessing-moq-requirements",
+                 "Quicr/quicr-arch-spec",
+                 "Quicr/quicr-protocol-spec"
+            ],
+            "topic": "Media Over QUIC Activity Summary"
+        }
+    },
     "mls@ietf.org": {
         "digest:sunday": {
             "repos": [
