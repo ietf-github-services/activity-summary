@@ -303,5 +303,17 @@
             ],
             "topic": "Oblivious HTTP Activity Summary"
         }
+    },
+    "tm-rid@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "ietf-wg-drip/draft-ietf-drip-auth",
+		"ietf-wg-drip/draft-ietf-drip-registries"
+            ],
+            "topic": "DRIP Activity Summary"
+        }
     }
 }
