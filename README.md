@@ -2,7 +2,7 @@
 
 [![Actions Status](https://github.com/ietf-github-services/activity-summary/workflows/Activity%20Summary/badge.svg)](https://github.com/ietf-github-services/activity-summary/actions)
 
-Emailing weekly summaries of GitHub repository activity to IETF mailing lists.
+This repo e-mails weekly summaries of GitHub repository activity to IETF mailing lists.
 
 You can get a summary of repository activity e-mailed by creating a pull request that updates `mls.json` in this repository, with a new member of the top-level object representing the mailing list you'd like to send the summary to. 
 
