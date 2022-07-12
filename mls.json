@@ -139,7 +139,8 @@
                 ]
             },
             "repos": [
-                "ietf-wg-mops/draft-ietf-mops-streaming-opcons"
+                "ietf-wg-mops/draft-ietf-mops-streaming-opcons",
+                "ietf-wg-mops/draft-ietf-mops-ar-use-case"
             ],
             "topic": "MOPS Activity Summary"
         }
