@@ -316,5 +316,13 @@
             ],
             "topic": "DRIP Activity Summary"
         }
+    },
+    "lake@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "lake-wg/edhoc"
+            ],
+            "topic": "LAKE Working Group Activity Summary"
+        }
     }
 }
