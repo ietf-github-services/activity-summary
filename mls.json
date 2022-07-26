@@ -109,7 +109,8 @@
             "repos": [
                 "ietf-wg-masque/draft-ietf-masque-connect-udp",
                 "ietf-wg-masque/draft-ietf-masque-h3-datagram",
-                "ietf-wg-masque/draft-ietf-masque-ip-proxy-reqs"
+                "ietf-wg-masque/draft-ietf-masque-ip-proxy-reqs",
+                "ietf-wg-masque/draft-ietf-masque-connect-ip"
             ],
             "topic": "MASQUE Working Group summary"
         }
