@@ -325,5 +325,18 @@
             ],
             "topic": "LAKE Working Group Activity Summary"
         }
+    },
+    "alto@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "ietf-wg-alto/draft-ietf-alto-oam-yang",
+		"ietf-wg-alto/draft-ietf-alto-new-transport",
+		"ietf-wg-alto/wg-materials"    
+            ],
+            "topic": "ALTO Github Activity Summary"
+        }
     }
 }
