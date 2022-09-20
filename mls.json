@@ -338,5 +338,13 @@
             ],
             "topic": "ALTO Github Activity Summary"
         }
-    }
+    },
+    "eligibility-discuss@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "ietf-wg-elegy/rfc8989bis"
+            ],
+            "topic": "ELEGY Working Group GitHub Activity Summary"
+        }
+    },
 }
