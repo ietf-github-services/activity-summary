@@ -89,7 +89,8 @@
                  "moq-wg/moq-charter",
                  "fiestajetsam/draft-gruessing-moq-requirements",
                  "Quicr/quicr-arch-spec",
-                 "Quicr/quicr-protocol-spec"
+                 "Quicr/quicr-protocol-spec",
+                 "kixelated/warp-draft"
             ],
             "topic": "Media Over QUIC Activity Summary"
         }
@@ -334,7 +335,7 @@
             "repos": [
                 "ietf-wg-alto/draft-ietf-alto-oam-yang",
 		"ietf-wg-alto/draft-ietf-alto-new-transport",
-		"ietf-wg-alto/wg-materials"    
+		"ietf-wg-alto/wg-materials"
             ],
             "topic": "ALTO Github Activity Summary"
         }
