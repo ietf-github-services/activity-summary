@@ -347,5 +347,13 @@
             ],
             "topic": "ELEGY Working Group GitHub Activity Summary"
         }
+    },
+    "snac@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "ietf-wg-snac/draft-ietf-snac-simple"
+            ],
+            "topic": "SNAC Working Group GitHub Activity Summary"
+        }
     }
 }
