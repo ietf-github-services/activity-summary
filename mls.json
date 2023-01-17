@@ -358,4 +358,12 @@
             "topic": "SNAC Working Group GitHub Activity Summary"
         }
     }
+    "avt@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "mengelbart/rtp-over-quic-draft"
+            ],
+            "topic": "AVTCORE Working Group GitHub Activity Summary"
+        }
+    }
 }
