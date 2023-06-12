@@ -87,7 +87,10 @@
             "repos": [
                  "afrind/moqbof",
                  "moq-wg/moq-charter",
-                 "fiestajetsam/draft-gruessing-moq-requirements",
+                 "moq-wg/moq-transport",
+                 "moq-wg/moq-requirements",
+                 "moq-wg/warp-streaming-format",
+                 "moq-wg/wg-materials",
                  "Quicr/quicr-arch-spec",
                  "Quicr/quicr-protocol-spec",
                  "kixelated/warp-draft"
