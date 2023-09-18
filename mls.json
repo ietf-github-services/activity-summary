@@ -374,7 +374,7 @@
     "dnssd@ietf.org": {
         "digest:sunday": {
             "repos": [
-                "dnssd-wg/draft-ietf-dnssd-advertising-proxy ",
+                "dnssd-wg/draft-ietf-dnssd-advertising-proxy",
                 "dnssd-wg/draft-ietf-dnssd-srp",
                 "dnssd-wg/draft-ietf-dnssd-srp-replication",
                 "dnssd-wg/draft-ietf-dnssd-update-lease"
