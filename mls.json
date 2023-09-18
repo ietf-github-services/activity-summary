@@ -370,5 +370,26 @@
             ],
             "topic": "AVTCORE Working Group GitHub Activity Summary"
         }
+    },
+    "dnssd@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "dnssd-wg/draft-ietf-dnssd-advertising-proxy ",
+                "dnssd-wg/draft-ietf-dnssd-srp",
+                "dnssd-wg/draft-ietf-dnssd-srp-replication",
+                "dnssd-wg/draft-ietf-dnssd-update-lease"
+            ],
+            "topic": "DNSSD Working Group GitHub Activity Summary"
+        }
+    },
+    "webtransport@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "ietf-wg-webtrans/draft-ietf-webtrans-overview",
+                "ietf-wg-webtrans/draft-ietf-webtrans-http2",
+                "ietf-wg-webtrans/draft-ietf-webtrans-http3"
+            ],
+            "topic": "WEBTRANS Working Group GitHub Activity Summary"
+        }
     }
 }
