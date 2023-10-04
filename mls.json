@@ -118,6 +118,7 @@
                 "ietf-wg-masque/draft-ietf-masque-ip-proxy-reqs",
                 "ietf-wg-masque/draft-ietf-masque-connect-ip",
 		"ietf-wg-masque/draft-ietf-masque-connect-udp-listen",
+                "ietf-wg-masque/draft-ietf-masque-connect-ethernet",
 		"ietf-wg-masque/draft-ietf-masque-quic-proxy"
             ],
             "topic": "MASQUE Working Group summary"
