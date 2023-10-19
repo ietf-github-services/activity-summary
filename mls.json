@@ -392,5 +392,13 @@
             ],
             "topic": "WEBTRANS Working Group GitHub Activity Summary"
         }
+    },
+    "ccwg@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "ietf-wg-ccwg/rfc5033bis"
+            ],
+            "topic": "CCWG GitHub Activity Summary"
+        }
     }
 }
