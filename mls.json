@@ -383,6 +383,18 @@
             "topic": "DNSSD Working Group GitHub Activity Summary"
         }
     },
+    "dnsop@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+		"ietf-wg-dnsop/draft-ietf-dnsop-dnssec-automation",
+		"ietf-wg-dnsop/draft-ietf-dnsop-domain-verification-techniques",
+		"ietf-wg-dnsop/draft-ietf-dnsop-structured-dns-error",
+		"ietf-wg-dnsop/draft-ietf-dnsop-qdcount-is-one",
+		"ietf-wg-dnsop/draft-ietf-dnsop-rfc9471bis"
+            ],
+            "topic": "DNSOP Working Group GitHub Activity Summary"
+        }
+    },
     "webtransport@ietf.org": {
         "digest:sunday": {
             "repos": [
