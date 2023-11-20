@@ -390,7 +390,8 @@
 		"ietf-wg-dnsop/draft-ietf-dnsop-domain-verification-techniques",
 		"ietf-wg-dnsop/draft-ietf-dnsop-structured-dns-error",
 		"ietf-wg-dnsop/draft-ietf-dnsop-qdcount-is-one",
-		"ietf-wg-dnsop/draft-ietf-dnsop-rfc9471bis"
+		"ietf-wg-dnsop/draft-ietf-dnsop-rfc9471bis",
+		"fl1ger/deleg"
             ],
             "topic": "DNSOP Working Group GitHub Activity Summary"
         }
