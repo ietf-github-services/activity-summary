@@ -413,5 +413,18 @@
             ],
             "topic": "CCWG GitHub Activity Summary"
         }
+    },
+    "tsvwg@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "tsvwg/draft-udp-options-dplpmtud",
+                "tsvwg/ietf-multipath-dccp",
+		"tsvwg/careful-resume",
+		"tsvwg/zero-checksum",
+		"tsvwg/ietf-l4sops",
+		"tsvwg/draft-ietf-tsvwg-udp-options"
+            ],
+            "topic": "TSV Working Group GitHub Activity Summary"
+        }
     }
 }
