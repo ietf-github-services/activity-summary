@@ -426,4 +426,12 @@
             "topic": "TSV Working Group GitHub Activity Summary"
         }
     }
+	"sadcdn@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "mjoras/SCONE-PROTOCL",
+            ],
+            "topic": "SCONEPRO BOF GitHub Activity Summary"
+        }
+    }
 }
