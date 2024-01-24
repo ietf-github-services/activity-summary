@@ -429,7 +429,7 @@
 	"sadcdn@ietf.org": {
         "digest:sunday": {
             "repos": [
-                "mjoras/SCONE-PROTOCL",
+                "mjoras/SCONE-PROTOCL"
             ],
             "topic": "SCONEPRO BOF GitHub Activity Summary"
         }
