@@ -330,7 +330,8 @@
     "lake@ietf.org": {
         "digest:sunday": {
             "repos": [
-                "lake-wg/edhoc"
+                "lake-wg/edhoc",
+                "lake-wg/authz"
             ],
             "topic": "LAKE Working Group Activity Summary"
         }
