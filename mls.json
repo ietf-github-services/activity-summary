@@ -30,7 +30,9 @@
                 "quicwg/quic-bit-grease",
                 "quicwg/qlog",
                 "quicwg/quic-v2",
-                "quicwg/multipath"
+                "quicwg/multipath",
+		"quicwg/ack-frequency",
+		"quicwg/reliable-stream-reset"
             ],
             "topic": "QUIC Activity Summary"
         }
