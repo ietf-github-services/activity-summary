@@ -435,5 +435,43 @@
             ],
             "topic": "SCONEPRO BOF GitHub Activity Summary"
         }
-    }
+    },
+    "oauth@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "oauth-wg/oauth-browser-based-apps",
+                "oauth-wg/oauth-identity-chaining",
+                "oauth-wg/oauth-transaction-tokens",
+                "oauth-wg/oauth-sd-jwt-vc",
+                "oauth-wg/draft-ietf-oauth-resource-metadata",
+                "oauth-wg/oauth-cross-device-security",
+                "oauth-wg/oauth-selective-disclosure-jwt",
+                "oauth-wg/oauth-v2-1",
+                "oauth-wg/oauth-browser-based-apps"
+            ],
+            "topic": "OAuth Activity Summary"
+        }
+    },
+    "scim@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "ietf-scim-wg/draft-ietf-scim-cursor-pagination",
+                "ietf-scim-wg/draft-sehgal-scim-delta-query",
+                "ietf-scim-wg/draft-ietf-scim-events",
+                "ietf-scim-wg/draft-ietf-scim-roles-entitlements",
+                "ietf-scim-wg/draft-dingle-scim-use-cases"
+            ],
+            "topic": "SCIM Activity Summary"
+        }
+    },
 }
