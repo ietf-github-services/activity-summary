@@ -457,6 +457,19 @@
             "topic": "OAuth Activity Summary"
         }
     },
+    "openpgp@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "openpgp-pqc/draft-openpgp-pqc"
+            ],
+            "topic": "OpenPGP Github Activity Summary"
+        }
+    },
     "scim@ietf.org": {
         "digest:sunday": {
             "eventFilter": {
