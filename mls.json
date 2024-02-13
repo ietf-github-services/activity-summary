@@ -451,8 +451,7 @@
                 "oauth-wg/draft-ietf-oauth-resource-metadata",
                 "oauth-wg/oauth-cross-device-security",
                 "oauth-wg/oauth-selective-disclosure-jwt",
-                "oauth-wg/oauth-v2-1",
-                "oauth-wg/oauth-browser-based-apps"
+                "oauth-wg/oauth-v2-1"
             ],
             "topic": "OAuth Activity Summary"
         }
