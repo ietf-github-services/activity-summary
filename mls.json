@@ -1,4 +1,18 @@
 {
+    "3gpp-ietf-coord@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "SpencerDawkins/rfc3113bis"
+            ],
+            "topic": "RFC3113bis Activity Summary"
+        }
+    },
+{
     "ietf-http-wg@w3.org": {
         "digest:sunday": {
             "eventFilter": {
