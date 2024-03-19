@@ -470,6 +470,19 @@
             "topic": "OpenPGP Github Activity Summary"
         }
     },
+    " 3gpp-ietf-coord@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "github.com/SpencerDawkins/rfc3113bis"
+            ],
+            "topic": "rfc3113bis Github Activity Summary"
+        }
+    },
     "scim@ietf.org": {
         "digest:sunday": {
             "eventFilter": {
