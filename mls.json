@@ -478,7 +478,7 @@
                 ]
             },
             "repos": [
-                "github.com/SpencerDawkins/rfc3113bis"
+                "SpencerDawkins/rfc3113bis"
             ],
             "topic": "rfc3113bis Github Activity Summary"
         }
