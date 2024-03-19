@@ -30,9 +30,7 @@
                 "quicwg/quic-bit-grease",
                 "quicwg/qlog",
                 "quicwg/quic-v2",
-                "quicwg/multipath",
-		"quicwg/ack-frequency",
-		"quicwg/reliable-stream-reset"
+                "quicwg/multipath"
             ],
             "topic": "QUIC Activity Summary"
         }
@@ -94,8 +92,7 @@
                  "moq-wg/warp-streaming-format",
                  "moq-wg/wg-materials",
                  "Quicr/quicr-arch-spec",
-                 "Quicr/quicr-protocol-spec",
-                 "kixelated/warp-draft"
+                 "Quicr/quicr-protocol-spec"
             ],
             "topic": "Media Over QUIC Activity Summary"
         }
@@ -332,8 +329,7 @@
     "lake@ietf.org": {
         "digest:sunday": {
             "repos": [
-                "lake-wg/edhoc",
-                "lake-wg/authz"
+                "lake-wg/edhoc"
             ],
             "topic": "LAKE Working Group Activity Summary"
         }
@@ -397,6 +393,14 @@
             ],
             "topic": "DNSOP Working Group GitHub Activity Summary"
         }
+    },			
+    "3gpp-ietf-coord@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "SpencerDawkins/rfc3113bis"
+            ],
+            "topic": "RFC3113bis GitHub Activity Summary"
+        }
     },
     "webtransport@ietf.org": {
         "digest:sunday": {
@@ -406,85 +410,6 @@
                 "ietf-wg-webtrans/draft-ietf-webtrans-http3"
             ],
             "topic": "WEBTRANS Working Group GitHub Activity Summary"
-        }
-    },
-    "ccwg@ietf.org": {
-        "digest:sunday": {
-            "repos": [
-                "ietf-wg-ccwg/rfc5033bis"
-            ],
-            "topic": "CCWG GitHub Activity Summary"
-        }
-    },
-    "tsvwg@ietf.org": {
-        "digest:sunday": {
-            "repos": [
-                "tsvwg/draft-udp-options-dplpmtud",
-                "tsvwg/ietf-multipath-dccp",
-		"tsvwg/careful-resume",
-		"tsvwg/zero-checksum",
-		"tsvwg/ietf-l4sops",
-		"tsvwg/draft-ietf-tsvwg-udp-options"
-            ],
-            "topic": "TSV Working Group GitHub Activity Summary"
-        }
-    },
-	"sadcdn@ietf.org": {
-        "digest:sunday": {
-            "repos": [
-                "mjoras/SCONE-PROTOCL"
-            ],
-            "topic": "SCONEPRO BOF GitHub Activity Summary"
-        }
-    },
-    "oauth@ietf.org": {
-        "digest:sunday": {
-            "eventFilter": {
-                "notlabel": [
-                    "editorial"
-                ]
-            },
-            "repos": [
-                "oauth-wg/oauth-browser-based-apps",
-                "oauth-wg/oauth-identity-chaining",
-                "oauth-wg/oauth-transaction-tokens",
-                "oauth-wg/oauth-sd-jwt-vc",
-                "oauth-wg/draft-ietf-oauth-resource-metadata",
-                "oauth-wg/oauth-cross-device-security",
-                "oauth-wg/oauth-selective-disclosure-jwt",
-                "oauth-wg/oauth-v2-1"
-            ],
-            "topic": "OAuth Activity Summary"
-        }
-    },
-    "openpgp@ietf.org": {
-        "digest:sunday": {
-            "eventFilter": {
-                "notlabel": [
-                    "editorial"
-                ]
-            },
-            "repos": [
-                "openpgp-pqc/draft-openpgp-pqc"
-            ],
-            "topic": "OpenPGP Github Activity Summary"
-        }
-    },
-    "scim@ietf.org": {
-        "digest:sunday": {
-            "eventFilter": {
-                "notlabel": [
-                    "editorial"
-                ]
-            },
-            "repos": [
-                "ietf-scim-wg/draft-ietf-scim-cursor-pagination",
-                "ietf-scim-wg/draft-sehgal-scim-delta-query",
-                "ietf-scim-wg/draft-ietf-scim-events",
-                "ietf-scim-wg/draft-ietf-scim-roles-entitlements",
-                "ietf-scim-wg/draft-dingle-scim-use-cases"
-            ],
-            "topic": "SCIM Activity Summary"
         }
     }
 }
