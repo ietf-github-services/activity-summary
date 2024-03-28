@@ -499,5 +499,61 @@
             ],
             "topic": "SCIM Activity Summary"
         }
+    },
+    "core@ietf.org": {
+      "digest:sunday": {
+        "eventFilter": {
+            "notlabel": [
+                "editorial"
+            ]
+        },
+        "repos": [
+            "core-wg/groupcomm-proxy",
+            "core-wg/corrclar",
+            "core-wg/coap-pm",
+            "core-wg/oscore-capable-proxies",
+            "core-wg/oscore-key-limits",
+            "core-wg/oscore-id-update",
+            "core-wg/oscore-key-update",
+            "core-wg/draft-dns-over-coap",
+            "core-wg/core-responses",
+            "core-wg/transport-indication",
+            "core-wg/comi",
+            "core-wg/coral",
+            "core-wg/attacks-on-coap",
+            "core-wg/observe-multicast-notifications",
+            "core-wg/oscore-groupcomm",
+            "core-wg/href",
+            "core-wg/yang-cbor",
+            "core-wg/groupcomm-bis",
+            "core-wg/pyang",
+            "core-wg/coap-pubsub",
+            "core-wg/oscore-edhoc",
+            "core-wg/core-target-attr",
+            "core-wg/conditional-attributes",
+            "core-wg/dynlink",
+            "core-wg/cocoa",
+            "core-wg/rd-dns-sd",
+            "core-wg/wiki",
+            "core-wg/interfaces",
+            "core-wg/sms",
+            "core-wg/core-problem-details",
+            "core-wg/resource-directory",
+            "core-wg/oscore",
+            "core-wg/senml-data-ct",
+            "core-wg/senml-versions",
+            "core-wg/echo-request-tag",
+            "core-wg/new-block",
+            "core-wg/stateless",
+            "core-wg/senml-more-units",
+            "core-wg/senml-etch",
+            "core-wg/multipart-ct",
+            "core-wg/senml-spec",
+            "core-wg/too-many-reqs",
+            "core-wg/coap-tcp-tls",
+            "core-wg/etch"
+        ],
+        "topic": "Core Working Group Activity Summary"
     }
+} 
 }
