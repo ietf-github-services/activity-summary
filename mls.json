@@ -554,6 +554,19 @@
             "core-wg/etch"
         ],
         "topic": "Core Working Group Activity Summary"
+      }
+    },
+    "wimse@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial", "Editorial"
+                ]
+            },
+            "repos": [
+                "ietf-wg-wimse/draft-ietf-wimse-workload-identity-bcp"
+            ],
+            "topic": "WISME Weekly GitHub Activity Summary"
+        }
     }
-} 
 }
