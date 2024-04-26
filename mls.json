@@ -564,7 +564,8 @@
                 ]
             },
             "repos": [
-                "ietf-wg-wimse/draft-ietf-wimse-workload-identity-bcp"
+                "ietf-wg-wimse/draft-ietf-wimse-workload-identity-bcp",
+                "ietf-wg-wimse/draft-ietf-wimse-arch"
             ],
             "topic": "WISME Weekly GitHub Activity Summary"
         }
