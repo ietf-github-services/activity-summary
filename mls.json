@@ -584,5 +584,17 @@
             ],
             "topic": "SCITT Weekly GitHub Activity Summary"
         }
-    }
+    },
+    "nmop@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "ietf-wg-nmop/draft-ietf-nmop-network-incident-yang",
+		"ietf-wg-nmop/draft-ietf-nmop-yang-message-broker-integration"
+            ],
+            "topic": "NMOP Weekly Github Activity Summary"
+        }
+    }	
 }
