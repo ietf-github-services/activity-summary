@@ -569,5 +569,20 @@
             ],
             "topic": "WISME Weekly GitHub Activity Summary"
         }
+    },
+    "scitt@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial", "Editorial"
+                ]
+            },
+            "repos": [
+                "ietf-wg-scitt/draft-ietf-scitt-architecture",
+		"ietf-wg-scitt/draft-ietf-scitt-scrapi",
+                "ietf-wg-scitt/draft-ietf-scitt-software-use-cases"
+            ],
+            "topic": "SCITT Weekly GitHub Activity Summary"
+        }
     }
 }
