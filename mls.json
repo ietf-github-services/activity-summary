@@ -592,7 +592,8 @@
             },
             "repos": [
                 "ietf-wg-nmop/draft-ietf-nmop-network-incident-yang",
-		"ietf-wg-nmop/draft-ietf-nmop-yang-message-broker-integration"
+		"ietf-wg-nmop/draft-ietf-nmop-yang-message-broker-integration",
+		"ietf-wg-nmop/draft-ietf-nmop-incident-terminology"
             ],
             "topic": "NMOP Weekly Github Activity Summary"
         }
