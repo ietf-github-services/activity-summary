@@ -598,4 +598,12 @@
             "topic": "NMOP Weekly Github Activity Summary"
         }
     }	
+    "unwanted-trackers@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+	        "ietf-wg-dult/wg-materials"
+            ],
+            "topic": "DULT Weekly Github Activity Summary"
+        }
+    }	
 }
