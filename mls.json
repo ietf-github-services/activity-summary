@@ -370,7 +370,9 @@
     "avt@ietf.org": {
         "digest:sunday": {
             "repos": [
-                "mengelbart/rtp-over-quic-draft"
+                "mengelbart/rtp-over-quic-draft",
+		"ietf-wg-avtcore/draft-ietf-avtcore-rtp-haptics",
+		"ietf-wg-avtcore/draft-ietf-avtcore-rtp-j2k-scl"
             ],
             "topic": "AVTCORE Working Group GitHub Activity Summary"
         }
