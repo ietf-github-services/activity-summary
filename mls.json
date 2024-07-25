@@ -414,7 +414,8 @@
     "ccwg@ietf.org": {
         "digest:sunday": {
             "repos": [
-                "ietf-wg-ccwg/rfc5033bis"
+                "ietf-wg-ccwg/rfc5033bis",
+                "ietf-wg-ccwg/wg-materials"
             ],
             "topic": "CCWG GitHub Activity Summary"
         }
