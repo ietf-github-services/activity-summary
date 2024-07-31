@@ -612,5 +612,16 @@
             ],
             "topic": "DULT Weekly Github Activity Summary"
         }
-    }	
+    },
+    "ssh@ietf.org": {
+	"digest:sunday": {
+	    "eventFilter": {
+                "notlabel": []
+	    },
+	    "repos": [
+		"DavidSchinazi/ssh-charter"
+	    ],
+	    "topic": "SSH-Charter Github Activity Summary"
+	}
+    }
 }
