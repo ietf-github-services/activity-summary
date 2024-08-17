@@ -647,5 +647,34 @@
 	    ],
 	    "topic": "WISH Weekly Github Activity Summary"
 	}
+    },
+    "spasm@ietf.org": {
+	"digest:sunday": {
+	    "eventFilter": {
+                "notlabel": []
+	    },
+	    "repos": [
+		"lamps-wg/8410-ku-clarifications",
+		"lamps-wg/cmcbis",
+		"lamps-wg/cms-kemri",
+		"lamps-wg/draft-composite-kem",
+		"lamps-wg/csr-attestation",
+		"lamps-wg/csr-attestation-examples",
+		"lamps-wg/dilithium-certificates",
+		"lamps-wg/documentsigning-eku",
+		"lamps-wg/draft-composite-sigs",
+		"lamps-wg/draft-composite-kem-old",
+		"lamps-wg/draft-ietf-lamps-5480-ku-clarifications",
+		"lamps-wg/lamps-attestation-freshness",
+		"lamps-wg/lamps-rfc7030-csrattrs",
+		"lamps-wg/key-attestation-ext",
+		"lamps-wg/kyber-certificates",
+		"lamps-wg/smime",
+		"lamps-wg/SMIME-Examples",
+		"lamps-wg/x509-shbs",
+		"lamps-wg/x509-slhdsa"
+	    ],
+	    "topic": "LAMPS Weekly Github Activity Summary"
+	}
     }
 }
