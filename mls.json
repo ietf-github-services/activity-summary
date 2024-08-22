@@ -677,5 +677,18 @@
 	    ],
 	    "topic": "LAMPS Weekly Github Activity Summary"
 	}
+    },
+    "spice@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial", "Editorial"
+                ]
+            },
+            "repos": [
+                "ietf-wg-spice/draft-ietf-spice-sd-cwt"
+            ],
+            "topic": "SPICE Weekly GitHub Activity Summary"
+        }
     }
 }
