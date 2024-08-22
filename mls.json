@@ -7,7 +7,7 @@
                 ]
             },
             "repos": [
-                "httpwg/http-core",
+                "ietf-w",
                 "httpwg/http-extensions",
 		"httpwg/http2-spec"
             ],
@@ -675,7 +675,21 @@
 		"lamps-wg/x509-shbs",
 		"lamps-wg/x509-slhdsa"
 	    ],
+		
 	    "topic": "LAMPS Weekly Github Activity Summary"
 	}
-    }
+    },
+    "spice@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial", "Editorial"
+                ]
+            },
+            "repos": [
+                "ietf-wg-spice/draft-ietf-spice-sd-cwt",
+            ],
+            "topic": "SPICE Weekly GitHub Activity Summary"
+        }
+    },
 }
