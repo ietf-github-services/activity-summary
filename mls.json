@@ -699,7 +699,9 @@
                 ]
             },
             "repos": [
-                "SIDN/ietf-wg-rpp-charter"
+                "SIDN/ietf-wg-rpp-charter",
+		"SIDN/ietf-epp-restful-json",
+		"SIDN/ietf-epp-restful-transport"    
             ],
             "topic": "RPP Weekly GitHub Activity Summary"
         }
