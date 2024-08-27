@@ -690,5 +690,18 @@
             ],
             "topic": "SPICE Weekly GitHub Activity Summary"
         }
+    },
+    "rpp@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial", "Editorial"
+                ]
+            },
+            "repos": [
+                "SIDN/ietf-wg-rpp-charter"
+            ],
+            "topic": "RPP Weekly GitHub Activity Summary"
+        }
     }
 }
