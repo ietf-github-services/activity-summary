@@ -46,7 +46,7 @@
 		"tlswg/draft-ietf-tls-cert-abridge",
                 "tlswg/draft-ietf-tls-ctls",
 		"tlswg/draft-ietf-tls-ecdhe-psk-aead",
-		"tlswg/draft-ietf-tls-ech-keylogfile ",
+		"tlswg/draft-ietf-tls-ech-keylogfile",
 		"tlswg/draft-ietf-tls-esni",
                 "tlswg/draft-ietf-tls-external-psk-importer",
 		"tlswg/draft-ietf-tls-grease",
