@@ -641,7 +641,8 @@
         "digest:sunday": {
             "repos": [
 	        "ietf-wg-dult/wg-materials",
-		"ietf-wg-dult/threat-model"
+		"ietf-wg-dult/threat-model",
+		"ietf-wg-dult/accessory-protocol"
             ],
             "topic": "DULT Weekly Github Activity Summary"
         }
