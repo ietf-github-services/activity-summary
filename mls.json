@@ -445,7 +445,7 @@
         "digest:sunday": {
             "repos": [
                 "ietf-wg-ccwg/rfc5033bis",
-                "ietf-wg-ccwg/wg-materials"
+                "ietf-wg-ccwg/wg-materials",
                 "ietf-wg-ccwg/draft-ietf-ccwg-bbr"
             ],
             "topic": "CCWG GitHub Activity Summary"
