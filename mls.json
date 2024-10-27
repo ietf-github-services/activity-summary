@@ -425,7 +425,10 @@
 		"ietf-wg-dnsop/draft-ietf-dnsop-domain-verification-techniques",
 		"ietf-wg-dnsop/draft-ietf-dnsop-structured-dns-error",
 		"ietf-wg-dnsop/draft-ietf-dnsop-qdcount-is-one",
-		"ietf-wg-dnsop/draft-ietf-dnsop-avoid-fragmentation",
+		"ietf-wg-dnsop/draft-ietf-dnsop-algorithm-update",
+		"ietf-wg-dnsop/draft-ietf-dnsop-must-not-sha1", 
+		"ietf-wg-dnsop/draft-ietf-dnsop-must-not-gost",
+		"ietf-wg-dnsop/draft-ietf-dnsop-grease",
 	 	"ietf-wg-dnsop/DNSOP_Doc_Tracker"
             ],
             "topic": "DNSOP Working Group GitHub Activity Summary"
