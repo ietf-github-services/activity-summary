@@ -641,6 +641,18 @@
             "topic": "NMOP Weekly Github Activity Summary"
         }
     },
+    "cats@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "ietf-wg-cats/draft-ietf-cats-usecases-requirements",
+		"ietf-wg-cats/draft-ietf-cats-framework"
+            ],
+            "topic": "CATS Weekly Github Activity Summary"
+        }
+    },
     "unwanted-trackers@ietf.org": {
         "digest:sunday": {
             "repos": [
