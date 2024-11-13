@@ -660,7 +660,8 @@
             "repos": [
 	        "ietf-wg-dult/wg-materials",
 		"ietf-wg-dult/threat-model",
-		"ietf-wg-dult/accessory-protocol"
+		"ietf-wg-dult/accessory-protocol",
+		"ietf-wg-dult/finding"
             ],
             "topic": "DULT Weekly Github Activity Summary"
         }
