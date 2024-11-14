@@ -65,7 +65,7 @@
                 "tlswg/sniencryption",
 		"tlswg/sslkeylogfile",
 		"tlswg/sslv3-diediedie",
-		"tlswg/super-jumbo-record-limit ",
+		"tlswg/super-jumbo-record-limit",
 		"tlswg/tls13-spec",
 		"tlswg/tls-exported-authenticator",
 		"tlswg/tls-flags",
