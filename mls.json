@@ -752,5 +752,23 @@
             ],
             "topic": "RPP Weekly GitHub Activity Summary"
         }
+    },
+    "suit@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": []
+            },
+            "repos": [
+                "suit-wg/manifest-spec",
+		"suit-wg/suit-report",
+		"suit-wg/architecture",
+		"suit-wg/suit-update-management",
+		"suit-wg/suit-mud",
+		"suit-wg/suit-firmware-encryption",
+		"suit-wg/suit-multiple-trust-domains",
+		"suit-wg/suit-mti"
+            ],
+            "topic": "SUIT Weekly GitHub Activity Summary"
+        }
     }
 }
