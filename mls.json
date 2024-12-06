@@ -127,7 +127,8 @@
                 "mlswg/mls-protocol",
                 "mlswg/mls-federation",
 		"mlswg/mls-extensions",
-		"mlswg/mls-implementations"
+		"mlswg/mls-implementations",
+		"mlswg/mls-combiner"
             ],
             "topic": "MLS Working Group summary"
         }
