@@ -639,7 +639,9 @@
 		"ietf-wg-nmop/draft-ietf-nmop-yang-message-broker-integration",
 		"ietf-wg-nmop/draft-ietf-nmop-terminology",
 		"ietf-wg-nmop/draft-ietf-nmop-network-anomaly-architecture",
-		"ietf-wg-nmop/draft-ietf-nmop-digital-map-concept"    
+		"ietf-wg-nmop/draft-ietf-nmop-digital-map-concept",
+		"ietf-wg-nmop/draft-ietf-nmop-network-anomaly-lifecycle",
+		"ietf-wg-nmop/draft-ietf-nmop-network-anomaly-semantics"    
             ],
             "topic": "NMOP Weekly Github Activity Summary"
         }
