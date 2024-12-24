@@ -3,6 +3,7 @@ name: Activity Summary
 on:
   schedule:
     - cron: '30 7 * * 0'
+  workflow_dispatch:
 
 jobs:
   build:
