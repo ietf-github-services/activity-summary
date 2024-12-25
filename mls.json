@@ -773,5 +773,19 @@
             ],
             "topic": "SUIT Weekly GitHub Activity Summary"
         }
-    }
+    },
+    "mimi@ietf.org": {                         
+    	"digest:sunday": {                     
+             "eventFilter": {                  
+            	"notlabel": []
+              },
+              "repos": [                         
+            	"ietf-wg-mimi/mimi-arch",
+            	"ietf-wg-mimi/mimi-room-policy",
+            	"ietf-wg-mimi/mimi-protocol",
+            	"ietf-wg-mimi/mimi-draft-ietf-mimi-content"
+              ],
+              "topic": "MIMI Weekly Github Activity Summary"   
+        }
+     }
 }
