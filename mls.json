@@ -62,6 +62,7 @@
                 "tlswg/oldversions-deprecate",
 		"tlswg/rfc4492bis",
 		"tlswg/rfc8447bis",
+		"tlswg/rfc8773bis",
                 "tlswg/sniencryption",
 		"tlswg/sslkeylogfile",
 		"tlswg/sslv3-diediedie",
