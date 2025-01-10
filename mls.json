@@ -654,7 +654,8 @@
             },
             "repos": [
                 "ietf-wg-cats/draft-ietf-cats-usecases-requirements",
-		"ietf-wg-cats/draft-ietf-cats-framework"
+		"ietf-wg-cats/draft-ietf-cats-framework",
+		"ietf-wg-cats/draft-ietf-cats-metric-definition"
             ],
             "topic": "CATS Weekly Github Activity Summary"
         }
