@@ -789,5 +789,18 @@
               ],
               "topic": "MIMI Weekly Github Activity Summary"   
         }
-     }
+    },
+    "mod-discuss@ietf.org": {                         
+    	"digest:saturday": {                     
+             "eventFilter": {                  
+                "notlabel": [
+                    "editorial", "Editorial"
+                ]
+              },
+              "repos": [                         
+            	"larseggert/draft-ietf-modpod-group-processes",
+              ],
+              "topic": "MODPOD Weekly Github Activity Summary"   
+        }
+    }
 }
