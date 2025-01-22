@@ -798,7 +798,7 @@
                 ]
               },
               "repos": [                         
-            	"larseggert/draft-ietf-modpod-group-processes",
+            	"larseggert/draft-ietf-modpod-group-processes"
               ],
               "topic": "MODPOD Weekly Github Activity Summary"   
         }
