@@ -2,5 +2,6 @@
 "EMAIL_FROM": "do_not_reply@mnot.net",
 "TEMPLATES_DIR": "templates",
 "DIGEST_SENDER":"Repository Activity Summary Bot",
-"mls": "instance/mls.json"
+"mls": "instance/mls.json",
+"SIGNATURE": "To have a summary like this sent to your list, see: https://github.com/ietf-github-services/activity-summary"
 }
