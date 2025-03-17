@@ -366,7 +366,12 @@
         "digest:sunday": {
             "repos": [
                 "lake-wg/edhoc",
-                "lake-wg/authz"
+                "lake-wg/authz",
+                "lake-wg/edhoc-impl-cons",
+                "lake-wg/app-profiles",
+                "lake-wg/grease",
+                "lake-wg/psk",
+                "lake-wg/ra"
             ],
             "topic": "LAKE Working Group Activity Summary"
         }
