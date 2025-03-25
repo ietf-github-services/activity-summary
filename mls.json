@@ -810,5 +810,20 @@
               ],
               "topic": "MODPOD Weekly Github Activity Summary"   
         }
+    },
+    "media-types@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "ietf-wg-mediaman/admin",
+		"ietf-wg-mediaman/6838bis",
+		"ietf-wg-mediaman/procedures"
+	    ],
+            "topic": "MEDIAMAN Activity Summary"
+	}
     }
 }
