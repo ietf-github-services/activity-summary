@@ -408,7 +408,7 @@
     "avt@ietf.org": {
         "digest:sunday": {
             "repos": [
-                "mengelbart/rtp-over-quic-draft",
+                "ietf-wg-avtcore/draft-ietf-avtcore-rtp-over-quic",
 		"ietf-wg-avtcore/draft-ietf-avtcore-rtp-haptics",
 		"ietf-wg-avtcore/draft-ietf-avtcore-rtp-j2k-scl",
 		"ietf-wg-avtcore/draft-ietf-avtcore-hevc-webrtc",
