@@ -759,11 +759,12 @@
                 ]
             },
             "repos": [
-                "SIDN/ietf-wg-rpp-charter",
-		"SIDN/ietf-epp-restful-json",
-		"SIDN/ietf-epp-restful-transport"    
+                "ietf-wg-rpp/rpp-requirements",
+		"pawel-kow/RPP-architecture",
+		"SIDN/ietf-rpp-core",
+		"SIDN/ietf-epp-restful-json"
             ],
-            "topic": "RPP Weekly GitHub Activity Summary"
+            "topic": "RPP WG Weekly GitHub Activity Summary"
         }
     },
     "suit@ietf.org": {
