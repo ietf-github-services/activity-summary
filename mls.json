@@ -711,6 +711,7 @@
 	    },
 	    "repos": [
 		"lamps-wg/8410-ku-clarifications",
+		"lamps-wg/automation-keyusages",
 		"lamps-wg/cmcbis",
 		"lamps-wg/cmp-updates",
 		"lamps-wg/cms-kemri",
