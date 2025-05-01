@@ -376,17 +376,15 @@
             "topic": "LAKE Working Group Activity Summary"
         }
     },
-    "alto@ietf.org": {
+   "scone@ietf.org": {
         "digest:sunday": {
             "eventFilter": {
                 "notlabel": []
             },
             "repos": [
-                "ietf-wg-alto/draft-ietf-alto-oam-yang",
-		"ietf-wg-alto/draft-ietf-alto-new-transport",
-		"ietf-wg-alto/wg-materials"
+                "ietf-wg-scone/scone",
             ],
-            "topic": "ALTO Github Activity Summary"
+            "topic": "SCONE Github Activity Summary"
         }
     },
     "eligibility-discuss@ietf.org": {
@@ -477,14 +475,6 @@
 		"tsvwg/draft-ietf-tsvwg-udp-options"
             ],
             "topic": "TSV Working Group GitHub Activity Summary"
-        }
-    },
-	"sadcdn@ietf.org": {
-        "digest:sunday": {
-            "repos": [
-                "mjoras/SCONE-PROTOCL"
-            ],
-            "topic": "SCONEPRO BOF GitHub Activity Summary"
         }
     },
     "oauth@ietf.org": {
