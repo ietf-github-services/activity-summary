@@ -382,7 +382,7 @@
                 "notlabel": []
             },
             "repos": [
-                "ietf-wg-scone/scone",
+                "ietf-wg-scone/scone"
             ],
             "topic": "SCONE Github Activity Summary"
         }
