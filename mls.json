@@ -134,6 +134,15 @@
             "topic": "MLS Working Group summary"
         }
     },
+    "hpke@ietf.org": {
+      "digest:sunday": {
+            "repos": [
+                "hpkewg/hpke",
+		"hpkewg/hpke-pq"
+            ],
+            "topic": "HPKE Working Group"
+      }
+    },
     "masque@ietf.org": {
         "digest:sunday": {
             "repos": [
