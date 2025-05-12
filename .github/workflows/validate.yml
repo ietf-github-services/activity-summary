@@ -2,11 +2,13 @@ name: Validate
 
 on:
   push:
-    paths: 
+    paths:
     - mls.json
+    - mls_schema.json
   pull_request:
-    paths: 
+    paths:
     - mls.json
+    - mls_schema.json
 
 jobs:
   validate:
@@ -14,11 +16,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
+    - uses: actions/checkout@v4
       with:
         submodules: recursive
     - name: Set up Python
-      uses: actions/setup-python@v1
+      uses: actions/setup-python@v5
       with:
         python-version: 3.11
     - name: Install dependencies
@@ -28,3 +30,6 @@ jobs:
     - name: Validate mls.json
       run: |
         jsonschema -i mls.json mls_schema.json
+    - name: Check that mls.json is sorted
+      run: |
+        diff -u mls.json <(jq -S <mls.json)
