@@ -421,7 +421,8 @@
 		"ietf-wg-avtcore/draft-ietf-avtcore-hevc-webrtc",
 		"ietf-wg-avtcore/id-abs-capture-timestamp",
 		"ietf-wg-avtcore/draft-ietf-avtcore-rtp-v3c",
-		"ietf-wg-avtcore/sdp-roq"
+		"ietf-wg-avtcore/sdp-roq",
+		"ietf-wg-avtcore/draft-ietf-avtcore-rtp-sframe"
             ],
             "topic": "AVTCORE Working Group GitHub Activity Summary"
         }
