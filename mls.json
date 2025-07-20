@@ -827,5 +827,21 @@
 	    ],
             "topic": "MEDIAMAN Activity Summary"
 	}
+    },
+    "t2trg@irtf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "t2trg/draft-irtf-t2trg-taxonomy-manufacturer-anchors",
+                "t2trg/t2trg-rest-iot",
+                "t2trg/security-setup-iot-devices",
+                "t2trg/t2trg-amplification-attacks"
+             ],
+            "topic": "T2TRG Activity Summary"
+        }
     }
 }
