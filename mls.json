@@ -505,8 +505,12 @@
                 "oauth-wg/oauth-cross-device-security",
                 "oauth-wg/oauth-selective-disclosure-jwt",
                 "oauth-wg/oauth-v2-1",
-		"oauth-wg/draft-ietf-oauth-status-list",
-		"oauth-wg/draft-ietf-oauth-attestation-based-client-auth"
+                "oauth-wg/draft-ietf-oauth-status-list",
+                "oauth-wg/draft-ietf-oauth-attestation-based-client-auth",
+				"oauth-wg/oauth-identity-assertion-authz-grant",
+				"oauth-wg/draft-ietf-oauth-rfc8725bis",
+				"oauth-wg/draft-ietf-oauth-rfc7523bis",
+				"oauth-wg/oauth-first-party-apps"
             ],
             "topic": "OAuth Activity Summary"
         }
