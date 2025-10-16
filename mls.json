@@ -849,5 +849,14 @@
              ],
             "topic": "T2TRG Activity Summary"
         }
+    },
+    "dd@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+		"ietf-wg-deleg/draft-ietf-deleg-base",
+		"ietf-wg-deleg/draft-ietf-deleg-requirements"
+            ],
+            "topic": "DELEG Working Group GitHub Activity Summary"
+        }
     }
 }
