@@ -510,7 +510,8 @@
 				"oauth-wg/oauth-identity-assertion-authz-grant",
 				"oauth-wg/draft-ietf-oauth-rfc8725bis",
 				"oauth-wg/draft-ietf-oauth-rfc7523bis",
-				"oauth-wg/oauth-first-party-apps"
+				"oauth-wg/oauth-first-party-apps",
+				"oauth-wg/draft-ietf-oauth-client-id-metadata-document"
             ],
             "topic": "OAuth Activity Summary"
         }
