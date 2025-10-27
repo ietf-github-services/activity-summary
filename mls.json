@@ -859,5 +859,14 @@
             ],
             "topic": "DELEG Working Group GitHub Activity Summary"
         }
+    },
+    "happy@ietf.org": {
+        "digest:sunday": {
+            "repos": [
+                "ietf-wg-happy/wg-materials",
+                "ietf-wg-happy/draft-happy-eyeballs-v3"
+            ],
+            "topic": "HAPPY GitHub Activity Summary"
+        }
     }
 }
