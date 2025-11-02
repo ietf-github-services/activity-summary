@@ -868,5 +868,15 @@
             ],
             "topic": "HAPPY GitHub Activity Summary"
         }
+    },
+    "procon@ietf.org": {
+	"digest:sunday": {
+	    "repos": [
+		"ietf-wg-procon/2026bis",
+		"ietf-wg-procon/2418bis",
+		"ietf-wg-procon/ietf-chair-may-delegate"
+	    ],
+	    "topic": "PROCON GitHub Activity Summary"
+	}
     }
 }
