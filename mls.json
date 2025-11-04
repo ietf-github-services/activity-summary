@@ -877,6 +877,14 @@
 		"ietf-wg-procon/ietf-chair-may-delegate"
 	    ],
 	    "topic": "PROCON GitHub Activity Summary"
-	}
+		}
+	},
+	"sidrops@ietf.org": {
+	"digest:sunday": {
+	    "repos": [
+		"ietf-wg-sidrops/charter"
+	    ],
+	    "topic": "SIDROps GitHub Charter Activity Summary"
+		}
     }
 }
