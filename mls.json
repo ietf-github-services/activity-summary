@@ -886,5 +886,16 @@
 	    ],
 	    "topic": "SIDROps GitHub Charter Activity Summary"
 		}
+    },
+    "ocm@ietf.org": {
+        "digest:sunday": {
+	    "eventFilter": {
+                "notlabel": []
+	    },
+            "repos": [
+                "cs3org/OCM-API"
+            ],
+            "topic": "OCM GitHub Activity Summary"
+        }
     }
 }
