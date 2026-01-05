@@ -759,7 +759,9 @@
             },
             "repos": [
                 "ietf-wg-spice/draft-ietf-spice-sd-cwt",
-		"ietf-wg-spice/draft-ietf-spice-use-cases"
+				"ietf-wg-spice/draft-ietf-spice-use-cases",
+				"ietf-wg-spice/draft-ietf-spice-oidc-cwt",
+				"ietf-wg-spice/draft-ietf-spice-glue-id"
             ],
             "topic": "SPICE Weekly GitHub Activity Summary"
         }
