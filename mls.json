@@ -908,4 +908,26 @@
             "topic": "OCM GitHub Activity Summary"
         }
     }
+,
+    "json-structure@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": ["editorial"]
+            },
+            "repos": [
+                "json-structure/core",
+                "json-structure/validation",
+                "json-structure/import",
+                "json-structure/units",
+                "json-structure/alternate-names",
+                "json-structure/conditional-composition",
+                "json-structure/relations",
+                "json-structure/sdk",
+                "json-structure/site",
+                "json-structure/primer-and-samples",
+                "json-structure/meta"
+            ],
+            "topic": "JSON Structure Activity Summary"
+        }
+    }
 }
