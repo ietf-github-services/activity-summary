@@ -774,10 +774,10 @@
                 ]
             },
             "repos": [
-                "ietf-wg-rpp/rpp-requirements",
-		"pawel-kow/RPP-architecture",
-		"SIDN/ietf-rpp-core",
-		"SIDN/ietf-epp-restful-json"
+        		"ietf-wg-rpp/rpp-requirements",
+				"ietf-wg-rpp/RPP-architecture",
+				"SIDN/ietf-rpp-core",
+				"SIDN/ietf-epp-restful-json"
             ],
             "topic": "RPP WG Weekly GitHub Activity Summary"
         }
