@@ -929,5 +929,15 @@
             ],
             "topic": "JSON Structure Activity Summary"
         }
+    },
+    "jose@ietf.org":{
+        "digest:sunday":{
+            "repos":[
+                "ietf-wg-jose/draft-ietf-jose-hpke-encrypt",
+                "ietf-wg-jose/draft-ietf-jose-pq-composite-sigs",
+                "ietf-wg-jose/json-web-proof"
+            ],
+            "topic": "JOSE WG GitHub Activity Summary"
+        }
     }
 }
