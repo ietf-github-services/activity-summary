@@ -818,7 +818,7 @@
     	"digest:sunday": {                     
              "eventFilter": {                  
                 "notlabel": [
-                    "editorial", "Editorial"
+                    "editorial", "Editorial", "dependencies", "github_actions"
                 ]
               },
               "repos": [                         
