@@ -939,5 +939,18 @@
             ],
             "topic": "JOSE WG GitHub Activity Summary"
         }
+    },
+    "diem@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": [
+                    "editorial"
+                ]
+            },
+            "repos": [
+                "ietf-wg-diem/diem-requirements"
+            ],
+            "topic": "DIEM WG GitHub Activity Summary"
+        }
     }
 }
