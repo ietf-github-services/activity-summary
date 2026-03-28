@@ -948,7 +948,7 @@
                 ]
             },
             "repos": [
-                "ietf-wg-diem/diem-requirements",
+                "ietf-wg-diem/diem-requirements"
             ],
             "topic": "DIEM WG GitHub Activity Summary"
         }
