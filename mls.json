@@ -127,11 +127,14 @@
         "digest:sunday": {
             "repos": [
                 "mlswg/mls-architecture",
-                "mlswg/mls-protocol",
+				"mlswg/mls-combiner",
+				"mlswg/mls-extensions",
                 "mlswg/mls-federation",
-		"mlswg/mls-extensions",
-		"mlswg/mls-implementations",
-		"mlswg/mls-combiner"
+				"mlswg/mls-implementations",
+				"mlswg/mls-partial",
+				"mlswg/mls-protocol",
+				"mlswg/mls-ratchet-tree-options",
+				"mlswg/mls-targeted-messages"
             ],
             "topic": "MLS Working Group summary"
         }
