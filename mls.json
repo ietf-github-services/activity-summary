@@ -722,43 +722,46 @@
 	}
     },
     "spasm@ietf.org": {
-	"digest:sunday": {
-	    "eventFilter": {
-                "notlabel": []
-	    },
-	    "repos": [
-		"lamps-wg/8410-ku-clarifications",
-		"lamps-wg/automation-keyusages",
-		"lamps-wg/certificatediscovery",
-		"lamps-wg/cmcbis",
-		"lamps-wg/cmp-updates",
-		"lamps-wg/cms-kemri",
-		"lamps-wg/cms-ml-dsa",
-		"lamps-wg/cms-kyber",
-		"lamps-wg/csr-attestation",
-		"lamps-wg/csr-attestation-examples",
-		"lamps-wg/dilithium-certificates",
-		"lamps-wg/documentsigning-eku",
-		"lamps-wg/draft-cms-composite-kem",
-		"lamps-wg/draft-cms-composite-sigs",
-		"lamps-wg/draft-composite-kem",
-		"lamps-wg/draft-composite-kem-old",
-		"lamps-wg/draft-composite-sigs",
-		"lamps-wg/draft-ietf-lamps-5480-ku-clarifications",
-		"lamps-wg/key-attestation-ext",
-		"lamps-wg/kyber-certificates",
-		"lamps-wg/lamps-attestation-freshness",
-		"lamps-wg/lamps-rfc7030-csrattrs",
-		"lamps-wg/pkcs8-PriKeyInfoCt",
-		"lamps-wg/RFC5019bis",
-		"lamps-wg/RFC5990bis",
-		"lamps-wg/smime",
-		"lamps-wg/SMIME-Examples",
-		"lamps-wg/x509-shbs",
-		"lamps-wg/x509-slhdsa"
-	    ],
-	    "topic": "LAMPS Weekly Github Activity Summary"
-	}
+	    "digest:sunday": {
+	        "eventFilter": {
+                    "notlabel": []
+	        },
+	        "repos": [
+		        "lamps-wg/8410-ku-clarifications",
+		        "lamps-wg/automation-keyusages",
+		        "lamps-wg/certificatediscovery",
+		        "lamps-wg/cmcbis",
+		        "lamps-wg/cmp-updates",
+				"lamps-wg/cms-composite-kem",
+				"lamps-wg/cms-composite-sigs",
+				"lamps-wg/cms-euf-cma-signeddata",
+		        "lamps-wg/cms-kemri",
+		        "lamps-wg/cms-kyber",
+				"lamps-wg/cms-ml-dsa",
+		        "lamps-wg/csr-attestation",
+		        "lamps-wg/csr-attestation-examples",
+		        "lamps-wg/dilithium-certificates",
+		        "lamps-wg/documentsigning-eku",
+		        "lamps-wg/draft-composite-kem",
+		        "lamps-wg/draft-composite-kem-old",
+		        "lamps-wg/draft-composite-sigs",
+		        "lamps-wg/draft-ietf-lamps-5480-ku-clarifications",
+				"lamps-wg/draft-ietf-lamps-one-signature-certs",
+				"lamps-wg/key-attestation-ext",
+		        "lamps-wg/kyber-certificates",
+		        "lamps-wg/lamps-attestation-freshness",
+				"lamps-wg/lamps-est-renewal-info",
+		        "lamps-wg/lamps-rfc7030-csrattrs",
+		        "lamps-wg/pkcs8-PriKeyInfoCt",
+		        "lamps-wg/RFC5019bis",
+		        "lamps-wg/RFC5990bis",
+		        "lamps-wg/smime",
+		        "lamps-wg/SMIME-Examples",
+		        "lamps-wg/x509-shbs",
+		        "lamps-wg/x509-slhdsa"
+	        ],
+	        "topic": "LAMPS Weekly Github Activity Summary"
+	    }
     },
     "spice@ietf.org": {
         "digest:sunday": {
