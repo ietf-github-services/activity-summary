@@ -31,8 +31,12 @@
                 "quicwg/qlog",
                 "quicwg/quic-v2",
                 "quicwg/multipath",
-		"quicwg/ack-frequency",
-		"quicwg/reliable-stream-reset"
+                "quicwg/ack-frequency",
+                "quicwg/reliable-stream-reset",
+                "quicwg/qmux",
+                "quicwg/receive-ts",
+                "quicwg/extended-key-update",
+                "quicwg/address-discovery"
             ],
             "topic": "QUIC Activity Summary"
         }
@@ -451,7 +455,7 @@
 		"ietf-wg-dnsop/draft-ietf-dnsop-structured-dns-error",
 		"ietf-wg-dnsop/draft-ietf-dnsop-qdcount-is-one",
 		"ietf-wg-dnsop/draft-ietf-dnsop-algorithm-update",
-		"ietf-wg-dnsop/draft-ietf-dnsop-must-not-sha1", 
+		"ietf-wg-dnsop/draft-ietf-dnsop-must-not-sha1",
 		"ietf-wg-dnsop/draft-ietf-dnsop-must-not-gost",
 		"ietf-wg-dnsop/draft-ietf-dnsop-grease",
 	 	"ietf-wg-dnsop/DNSOP_Doc_Tracker"
@@ -660,7 +664,7 @@
 		"ietf-wg-nmop/draft-ietf-nmop-network-anomaly-architecture",
 		"ietf-wg-nmop/draft-ietf-nmop-digital-map-concept",
 		"ietf-wg-nmop/draft-ietf-nmop-network-anomaly-lifecycle",
-		"ietf-wg-nmop/draft-ietf-nmop-network-anomaly-semantics"    
+		"ietf-wg-nmop/draft-ietf-nmop-network-anomaly-semantics"
             ],
             "topic": "NMOP Weekly Github Activity Summary"
         }
@@ -803,31 +807,31 @@
             "topic": "SUIT Weekly GitHub Activity Summary"
         }
     },
-    "mimi@ietf.org": {                         
-    	"digest:sunday": {                     
-             "eventFilter": {                  
+    "mimi@ietf.org": {
+    	"digest:sunday": {
+             "eventFilter": {
             	"notlabel": []
               },
-              "repos": [                         
+              "repos": [
             	"ietf-wg-mimi/mimi-arch",
             	"ietf-wg-mimi/mimi-room-policy",
             	"ietf-wg-mimi/mimi-protocol",
             	"ietf-wg-mimi/mimi-draft-ietf-mimi-content"
               ],
-              "topic": "MIMI Weekly Github Activity Summary"   
+              "topic": "MIMI Weekly Github Activity Summary"
         }
     },
-    "mod-discuss@ietf.org": {                         
-    	"digest:sunday": {                     
-             "eventFilter": {                  
+    "mod-discuss@ietf.org": {
+    	"digest:sunday": {
+             "eventFilter": {
                 "notlabel": [
                     "editorial", "Editorial", "dependencies", "github_actions"
                 ]
               },
-              "repos": [                         
+              "repos": [
             	"larseggert/draft-ietf-modpod-group-processes"
               ],
-              "topic": "MODPOD Weekly Github Activity Summary"   
+              "topic": "MODPOD Weekly Github Activity Summary"
         }
     },
     "media-types@ietf.org": {
