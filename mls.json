@@ -403,7 +403,8 @@
                 "notlabel": []
             },
             "repos": [
-                "ietf-wg-scone/scone"
+                "ietf-wg-scone/scone",
+				"ietf-wg-scone/appman"
             ],
             "topic": "SCONE Github Activity Summary"
         }
