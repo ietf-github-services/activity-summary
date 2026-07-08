@@ -791,14 +791,15 @@
                 ]
             },
             "repos": [
-        		"ietf-wg-rpp/rpp-requirements",
-				"ietf-wg-rpp/RPP-architecture",
-				"SIDN/ietf-rpp-core",
-				"SIDN/ietf-rpp-json",
+        		"ietf-wg-rpp/draft-ietf-rpp-requirements",
+				"ietf-wg-rpp/draft-ietf-rpp-architecture",
+				"ietf-wg-rpp/draft-ietf-rpp-data-objects",
+				"ietf-wg-rpp/draft-ietf-rpp-core",
+				"ietf-wg-rpp/draft-ietf-rpp-json",
 				"SIDN/ietf-rpp-oauth2",
 				"SIDN/ietf-rpp-oauth2-transfer",
 				"SIDN/ietf-rpp-oauth2-delegation",
-				"pawel-kow/draft-kowalik-rpp-data-objects"
+				"SIDN/ietf-rpp-jscontact-profile"
             ],
             "topic": "RPP WG Weekly GitHub Activity Summary"
         }
