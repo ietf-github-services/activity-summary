@@ -929,6 +929,17 @@
             ],
             "topic": "OCM GitHub Activity Summary"
         }
+    },
+    "web-bot-auth@ietf.org": {
+        "digest:sunday": {
+            "eventFilter": {
+                "notlabel": ["editorial"]
+            },
+            "repos": [
+                "webbotauth/draft-ietf-webbotauth-httpsig-protocol"
+            ],
+            "topic": "Web Bot Auth GitHub Activity Summary"
+        }
     }
 ,
     "json-structure@ietf.org": {
