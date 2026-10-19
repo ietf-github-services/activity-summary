@@ -799,7 +799,10 @@
 				"SIDN/ietf-rpp-oauth2",
 				"SIDN/ietf-rpp-oauth2-transfer",
 				"SIDN/ietf-rpp-oauth2-delegation",
-				"SIDN/ietf-rpp-jscontact-profile"
+				"SIDN/ietf-rpp-jscontact-profile",
+                "SIDN/ietf-rpp-extension-guidelines",
+                "SIDN/ietf-rpp-extension-idn-variants",
+                "SIDN/ietf-rpp-multi-party-authorization"
             ],
             "topic": "RPP WG Weekly GitHub Activity Summary"
         }
