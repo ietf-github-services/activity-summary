@@ -392,7 +392,9 @@
                 "lake-wg/app-profiles",
                 "lake-wg/grease",
                 "lake-wg/psk",
-                "lake-wg/ra"
+                "lake-wg/ra",
+                "lake-wg/pqsuites",
+                "lake-wg/authkem"
             ],
             "topic": "LAKE Working Group Activity Summary"
         }
