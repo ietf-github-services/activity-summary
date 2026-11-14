@@ -524,7 +524,8 @@
 				"oauth-wg/draft-ietf-oauth-rfc8725bis",
 				"oauth-wg/draft-ietf-oauth-rfc7523bis",
 				"oauth-wg/oauth-first-party-apps",
-				"oauth-wg/draft-ietf-oauth-client-id-metadata-document"
+				"oauth-wg/draft-ietf-oauth-client-id-metadata-document",
+				"oauth-wg/oauth-deferred-token-response"
             ],
             "topic": "OAuth Activity Summary"
         }
